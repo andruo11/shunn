@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ShunnManuscriptFormat", "ShunnManuscriptFormat\ShunnManuscriptFormat.vbproj", "{CC0EC667-F0E9-4A2C-99D5-547717C8D972}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShunnSetup", "ShunnSetup\ShunnSetup.vdproj", "{5175F3AB-E003-4656-BD04-7A9047F25EA6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShunnSetup-x86", "ShunnSetup-x86\ShunnSetup-x86.vdproj", "{999CE3BD-DC47-4A33-87EE-B943DE15AB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0EC667-F0E9-4A2C-99D5-547717C8D972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0EC667-F0E9-4A2C-99D5-547717C8D972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0EC667-F0E9-4A2C-99D5-547717C8D972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0EC667-F0E9-4A2C-99D5-547717C8D972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5175F3AB-E003-4656-BD04-7A9047F25EA6}.Debug|Any CPU.ActiveCfg = Debug
+		{5175F3AB-E003-4656-BD04-7A9047F25EA6}.Release|Any CPU.ActiveCfg = Release
+		{999CE3BD-DC47-4A33-87EE-B943DE15AB13}.Debug|Any CPU.ActiveCfg = Debug
+		{999CE3BD-DC47-4A33-87EE-B943DE15AB13}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2C9BB8-BDAE-41B1-88DC-4BF8D7D03263}
+	EndGlobalSection
+EndGlobal

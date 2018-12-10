@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Example</Value>
+    </Setting>
+    <Setting Name="LastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="AuthorByline" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AddressLine1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234 Anywhere Rd.</Value>
+    </Setting>
+    <Setting Name="AddressLine2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">New York City, NY 90001</Value>
+    </Setting>
+    <Setting Name="Telephone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(212) 555-1212</Value>
+    </Setting>
+    <Setting Name="EmailAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">example@gmail.com</Value>
+    </Setting>
+    <Setting Name="Note" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SFWA member since 1997</Value>
+    </Setting>
+    <Setting Name="StoryTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">All the King's Men</Value>
+    </Setting>
+    <Setting Name="TitleKeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">King's Men</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

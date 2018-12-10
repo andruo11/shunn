@@ -1,0 +1,16 @@
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\ShunnManuscriptFormat.dll
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\ShunnManuscriptFormat.pdb
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\ShunnManuscriptFormat.xml
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\ShunnManuscriptFormat.dll.manifest
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\ShunnManuscriptFormat.vsto
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.ShunnReviewRibbon.resources
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.ShunnTaskPane.resources
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.Resources.resources
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.vbproj.GenerateResource.cache
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.vbproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.vbproj.CopyComplete
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.dll
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.xml
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.pdb
+C:\Users\andru\source\repos\ShunnManuscriptFormat\ShunnManuscriptFormat\obj\Debug\ShunnManuscriptFormat.vbprojAssemblyReference.cache
