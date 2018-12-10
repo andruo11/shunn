@@ -32,9 +32,9 @@ Public Class ThisAddIn
 
 		Dim wordCount As Integer = rng.ComputeStatistics(Word.WdStatistic.wdStatisticWords)
 		If wordCount < 7000 Then 'less than novella length, round to nearest 100 words
-			wordCount = (wordCount \ 100) * 100
+			wordCount = Math.Round(CDbl(wordCount) / 100.0) * 100
 		Else 'round to nearest 500 words
-			wordCount = (wordCount \ 500) * 500
+			wordCount = Math.Round(CDbl(wordCount) / 500.0) * 500
 		End If
 
 		Dim doc2 As Word.Document = MakeBlankDocument()
