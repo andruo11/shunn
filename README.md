@@ -9,7 +9,11 @@ This is important because editors at busy publishing companies will ignore the s
 Windows & Word 2013 or newer
 
 ## Installation files
-To be arranged... (103 mb)
+Download the right file for your version of Windows (103 mb):
+
+[installer_32bit.zip](../../releases/download/1.0/installer_32bit.zip)
+
+[installer_64bit.zip](../../releases/download/1.0/installer_64bit.zip)
 
 Unzip the file and double-click on setup.exe to install. 
 
