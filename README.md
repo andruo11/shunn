@@ -25,5 +25,3 @@ Visual Studio Community 2017 + Installer extension at https://marketplace.visual
 ### First page screenshot:
 
 <kbd><img src="/web/story_page1.png?raw=true" width="600" /></kbd>
-    
-Taken from https://www.shunn.net/format/story.html
