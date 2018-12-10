@@ -228,8 +228,6 @@
     <EmbeddedResource Include="ShunnTaskPane.resx">
       <DependentUpon>ShunnTaskPane.vb</DependentUpon>
     </EmbeddedResource>
-    <None Include="ShunnManuscriptFormat_1_TemporaryKey.pfx" />
-    <None Include="ShunnManuscriptFormat_TemporaryKey.pfx" />
     <None Include="ThisAddIn.Designer.xml">
       <DependentUpon>ThisAddIn.vb</DependentUpon>
     </None>
